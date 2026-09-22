@@ -227,4 +227,4 @@ ScummVM is available as a full free version, allowing you to enjoy all features 
 Don't miss out on a chance to relive the classic adventures! Download ScummVM today and start your nostalgic gaming journey!
 
 ---
-**Last updated:** 2026-09-22 10:31:27 UTC
+**Last updated:** 2026-09-22 15:13:56 UTC
